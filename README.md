@@ -2,7 +2,8 @@
 
 A fully functional web based Peer Tutoring Management System. 
 This platform connects students who need help in academic subjects with peer tutors from the same school.
-**Please Note: Please Note: This platform is only a prototype and not currently in use at any school.**
+**Please Note: This platform is only a prototype and not currently in use at any school.**
+**All data created in the database are temporary and will not remain there for long periods of time.**
 
 🔗 **Live Demo**: [https://peer-tutoring-management-system.onrender.com](https://peer-tutoring-management-system.onrender.com)  
 ⚠️ Note: The site may take up to **90 seconds to load** as it's deployed on a free Render instance.
