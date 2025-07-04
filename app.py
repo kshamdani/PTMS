@@ -1,3 +1,16 @@
+####################################################################################
+######## Project: Peer Tutoring Management System
+######## Aim: This is a system to facilitate the peer tutoring management in schools
+######## Authors: Koosha Shamdani
+######## Date: July 4, 2025
+####################################################################################
+
+
+####################################################################################
+######## Initialization
+####################################################################################
+
+
 # Import all of the important packages for the program to function properly
 from flask import Flask, render_template, request, session, redirect, url_for
 from flask_session import Session
