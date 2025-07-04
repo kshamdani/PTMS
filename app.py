@@ -1,7 +1,7 @@
 ####################################################################################
 ######## Project: Peer Tutoring Management System
 ######## Aim: This is a system to facilitate the peer tutoring management in schools
-######## Authors: Koosha Shamdani
+######## Author: Koosha Shamdani
 ######## Date: July 4, 2025
 ####################################################################################
 
