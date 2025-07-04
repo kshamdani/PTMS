@@ -178,13 +178,12 @@ The Peer Tutoring Management System has been tested against the following scenar
   - Page navigation and logo redirection tested
 
 ---
-
 ## 📄 License
 
-This project was developed for **educational purposes** by students at YRDSB.
+This project was developed for **educational purposes**.
 
 - You may **view**, **use**, and **share** this code for learning or non-commercial purposes.
-- Please contact the authors if you'd like to:
+- Please contact the author if you'd like to:
   - Reuse the code in other projects
   - Make derivative works
   - Deploy the system commercially
