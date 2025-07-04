@@ -11,21 +11,21 @@ This platform connects students who need help in academic subjects with peer tut
 
 ## 📚 Features
 
-- 📄 Student & Tutor form submissions
-- 🤖 Automated matchmaking algorithm based on:
+  - Student & Tutor form submissions
+  - Automated matchmaking algorithm based on:
   - Subject compatibility
   - Grade level
   - Period availability
   - Subject specialization (e.g. University > Mixed > College)
-- 📧 Email notifications:
+  - Email notifications:
   - Successful match confirmations
   - Standby status for unmatched users
   - Notifications on match removals
-- 🔐 Secure login for school guidance staff
-- 📊 Matches dashboard with:
+  - Secure login for school guidance staff
+  - Matches dashboard with:
   - Match details
   - Remove options (student, tutor, both)
-- 🎉 Seasonal Easter Eggs (e.g. 🎄 Christmas, 🎃 Halloween)
+  - Seasonal Easter Eggs (e.g. Christmas, Halloween)
 
 ---
 
