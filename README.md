@@ -176,24 +176,6 @@ The Peer Tutoring Management System has been tested against the following scenar
 
 ---
 
-## 🐞 Known Issues
-
-Despite thorough testing, the system has the following limitations:
-
-- 📱 **Responsiveness**:
-  - The Matches page layout breaks on screens between **500px and 900px**
-  - Some components do not adjust well on smaller or older devices
-
-- 🔁 **Form Spam**:
-  - No algorithm currently prevents students from submitting **multiple forms**
-  - Supervisors must manually monitor for duplicates
-
-- ✏️ **Limited Match Editing**:
-  - Supervisors **cannot edit** existing match details (e.g., change tutor or student)
-  - Only removal actions are supported
-
----
-
 ## 📄 License
 
 This project was developed for **educational purposes** by students at YRDSB.
