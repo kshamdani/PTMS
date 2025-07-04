@@ -1,9 +1,10 @@
 # 📘 Peer Tutoring Management System
 
-A fully functional web-based Peer Tutoring Management System.  
+A fully functional web based Peer Tutoring Management System. 
 This platform connects students who need help in academic subjects with peer tutors from the same school.
+**Please Note: Please Note: This platform is only a prototype and not currently in use at any school.**
 
-🔗 **Live Demo**: [https://ptms.onrender.com](https://ptms.onrender.com)  
+🔗 **Live Demo**: [https://peer-tutoring-management-system.onrender.com](https://peer-tutoring-management-system.onrender.com)  
 ⚠️ Note: The site may take up to **90 seconds to load** as it's deployed on a free Render instance.
 
 ----
@@ -125,7 +126,7 @@ Accessible from the landing page, this portal allows authorized staff to:
 
 - Log in with a **School Code** and **6-digit PIN** (`220244`)
 
-  (Please Note: In order to receive your school code, please contact me. A valid staff ID will be required).
+  (Please Note: In order to receive your school code, please contact the author. A valid staff ID will be required).
 - View all current matches for their school
 - Remove matches using:
   - Remove Student
@@ -133,7 +134,7 @@ Accessible from the landing page, this portal allows authorized staff to:
   - Remove Match
   - Remove Both
 
-Each removal triggers an appropriate email to the student and/or tutor.
+Each removal triggers an appropriate email to the student and tutor.
 
 ---
 
