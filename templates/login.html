@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="static/styles.css">
+    <link rel="icon" type="image/x-icon" href="logo.ico"/>
+    <link rel="icon" type="image/x-icon" href="static/image/favicon.ico"/>
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <div class="logo">
+                <a href="/">
+                    <img src="static/image/logo.png" alt="Logo" class="logo-img">
+                </a>
+                <h1>Peer Tutoring<br>Management System</h1>
+            </div>
+        </nav>
+    </div>
+    <div class="stuform">
+        <form action="/login" method="post">
+            <div class="form-group">
+                <label for="code">School Code</label>
+                <input type="password" id="school-code" name="school-code" pattern=".{1,}" title="Please enter at least 1 character, including numbers, letters, and symbols" required>
+                
+            </div>
+ 
+            <div class="form-group">
+                <label for="code">Code (6 digits)</label>
+                <input type="password" id="code" name="code" pattern="\d{6}" title="Please enter a 6-digit number" required>
+            </div>
+            <div class="form-group">
+                <button type="submit">Log in</button>
+            </div>
+        </form>
+    </div>
+    <div class="footer">
+    </div>
+    <script>
+        // Get the current date
+    const currentDate = new Date();
+    const day = currentDate.getDate();
+    const month = currentDate.getMonth() + 1; 
+
+     // Modify content based on specific dates
+     if ((month === 5 && day >= 1 && day <= 7)) {
+        document.querySelector(".logo h1").innerHTML += "🍎";
+    } else if ((month === 4 && day >= 14 && day <= 22)) {
+        document.querySelector(".logo h1").innerHTML += "🌎"; 
+    } else if ((month === 12 && day >= 25) || (month === 1 && day <= 7)) {
+        document.querySelector(".logo h1").innerHTML += "🎄"; 
+    } else if (month === 10 && day === 31) {
+        document.querySelector(".logo h1").innerHTML += "🎃"; 
+    } else if (month === 2 && day === 14) {
+        document.querySelector(".logo h1").innerHTML += "❤️";
+    } else if (month === 7 && day === 1) {
+        document.querySelector(".logo h1").innerHTML += "🍁"; 
+    } else if (month === 11 && day === 11) {
+        document.querySelector(".logo h1").innerHTML += "🌺"; 
+    } else if ((month == 2 && day != 14) && ((month === 1 && day >=21) || (month == 2 && day <=21))){
+        document.querySelector(".logo h1").innerHTML += "🐉"; 
+    } else if ((month === 3 && day >=19) || (month == 3 && day <=22)){
+        document.querySelector(".logo h1").innerHTML += "💚🤍❤️"; 
+    }
+    </script>
+</body>
+</html>
