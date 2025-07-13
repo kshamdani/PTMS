@@ -136,7 +136,7 @@ Users (students or tutors) must provide:
 #### 🔬 Science:
 - SPH3U, SCH3U, SBI3U/C, SNC2D, SNC1W
 
-### </> Computer Science:
+#### </> Computer Science:
 - ICS3, ICD2
 
 #### Others:
