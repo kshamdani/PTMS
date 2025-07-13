@@ -57,12 +57,70 @@ Users (students or tutors) must provide:
 - Free Period
 - Subject (from supported list)
 
-### 🏫 Supported Schools (Examples)
+### 🏫 Supported Schools
 
 - Alexander Mackenzie High School
+
+- Aurora High School
+
 - Bayview Secondary School
-- Unionville High School  
-_(and many more...)_
+
+- Bill Crothers Secondary School
+
+- Bill Hogarth Secondary School
+
+- G.W. Williams Secondary School
+
+- Dr. John M. Denison Secondary School
+
+- Emily Carr Secondary School
+
+- Hodan Nalayeh Secondary School
+
+- Keswick High School
+
+- King City Secondary School
+
+- Langstaff Secondary School
+
+- Maple High School
+
+- Markham District High School
+
+- Markville Secondary School
+
+- Middlefield Collegiate Institute
+
+- Milliken Mills High School
+
+- Newmarket High School
+
+- Pierre Elliott Trudeau High School
+
+- Richmond Green Secondary School
+
+- Richmond Hill High School
+
+- Sir William Mulock Secondary School
+
+- Stephen Lewis Secondary School
+
+- Stouffville District Secondary School
+
+- Sutton District High School
+
+- Thornhill Secondary School
+
+- Thornlea Secondary School
+
+- Tommy Douglas Secondary School
+
+- Unionville High School
+
+- Westmount Collegiate Institute
+
+- Woodbridge College
+
 
 ### 📖 Supported Subjects
 
@@ -178,6 +236,20 @@ The Peer Tutoring Management System has been tested against the following scenar
   - Page navigation and logo redirection tested
 
 ---
+
+## 🖥️ Run a Test Case
+
+- Submit a student form for **Alexander Mackenzie High School** using your own personal email.
+- Submit a tutor form for **the same high school** using your own personal email.
+
+  (Make sure that your selections follow the guidelines in the [Testing Methodology](#testing-methodology) section.)
+- Check to see if you received emails in regards to your form submissions.
+- Click the 'Guidance Entry' button
+- The school code for **Alexander Mackenzie High School** is `aMHsmachenzie3691-4202#ptsklcd1`
+- Login with the passowrd provided above
+    
+---
+
 ## 📄 License
 
 This project was developed for **educational purposes**.
