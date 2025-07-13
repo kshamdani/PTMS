@@ -62,67 +62,39 @@ Users (students or tutors) must provide:
 ## 🏫 Supported Schools
 
 - Alexander Mackenzie High School
-
 - Aurora High School
-
 - Bayview Secondary School
-
 - Bill Crothers Secondary School
-
 - Bill Hogarth Secondary School
-
+- Bur Oak Secondary School
 - G.W. Williams Secondary School
-
 - Dr. John M. Denison Secondary School
-
 - Emily Carr Secondary School
-
 - Hodan Nalayeh Secondary School
-
+- Huron Heights Secondary School
 - Keswick High School
-
 - King City Secondary School
-
 - Langstaff Secondary School
-
 - Maple High School
-
 - Markham District High School
-
 - Markville Secondary School
-
 - Middlefield Collegiate Institute
-
 - Milliken Mills High School
-
 - Newmarket High School
-
 - Pierre Elliott Trudeau High School
-
 - Richmond Green Secondary School
-
 - Richmond Hill High School
-
 - Sir William Mulock Secondary School
-
 - Stephen Lewis Secondary School
-
 - Stouffville District Secondary School
-
 - Sutton District High School
-
 - Thornhill Secondary School
-
 - Thornlea Secondary School
-
 - Tommy Douglas Secondary School
-
 - Unionville High School
-
 - Westmount Collegiate Institute
-
 - Woodbridge College
-
+- 
 ---
 
 ## 📖 Supported Subjects
