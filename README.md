@@ -57,6 +57,8 @@ Users (students or tutors) must provide:
 - Free Period
 - Subject (from supported list)
 
+---
+
 ### 🏫 Supported Schools
 
 - Alexander Mackenzie High School
@@ -121,6 +123,7 @@ Users (students or tutors) must provide:
 
 - Woodbridge College
 
+---
 
 ### 📖 Supported Subjects
 
