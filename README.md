@@ -94,7 +94,7 @@ Users (students or tutors) must provide:
 - Unionville High School
 - Westmount Collegiate Institute
 - Woodbridge College
-- 
+
 ---
 
 ## 📖 Supported Subjects
