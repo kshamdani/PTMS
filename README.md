@@ -59,7 +59,7 @@ Users (students or tutors) must provide:
 
 ---
 
-### 🏫 Supported Schools
+## 🏫 Supported Schools
 
 - Alexander Mackenzie High School
 
@@ -125,20 +125,22 @@ Users (students or tutors) must provide:
 
 ---
 
-### 📖 Supported Subjects
+## 📖 Supported Subjects
 
-#### Math:
-- MCR3U, MAP4C, MBF3C, MPM2D, MTH1W
+#### 📐 Math:
+- MAP4C, MCR3U, MCF3M, MBF3C, MPM2D, MTH1W
 
-#### English:
+#### 🪶 English:
 - NBE3U/C, ENG2D, ENL1W
 
-#### Science:
-- SPH3U, SBI3U/C, SNC2D, SNC1W
+#### 🔬 Science:
+- SPH3U, SCH3U, SBI3U/C, SNC2D, SNC1W
+
+### </> Computer Science:
+- ICS3, ICD2
 
 #### Others:
-- Computer Science, Business, History, Geography, French
-_(and many more...)_
+- Accounting, French, Geography, History
 
 ---
 
