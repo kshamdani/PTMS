@@ -20,6 +20,7 @@ from bs4 import BeautifulSoup
 from email.mime.text import MIMEText
 import hashlib
 from email.mime.multipart import MIMEMultipart
+import os
 
 # Initialize Flask
 app = Flask(__name__)
@@ -432,8 +433,12 @@ def matchingStudentTutor(student, tutor):
 # The function to create and send an email
 def send_email(to_address, subject, body):
     # Define email sender and receiver
-    from_address = "peertutoringmanagementsystem@gmail.com"
-    password = "iyhm wsgk jjkh zawi"
+    from_address = os.environ.get("EMAIL_ADDRESS")
+    password = os.environ.get("EMAIL_PASSWORD")
+
+    if not from_address or not password:
+        print("Email credentials not set")
+        return
 
     # Create the email headers and payload
     msg = MIMEMultipart()
@@ -442,9 +447,11 @@ def send_email(to_address, subject, body):
     msg['Subject'] = subject
     msg.attach(MIMEText(body, 'plain'))
 
+    server = None
+    
     try:
         # Connect to the Gmail SMTP server
-        server = smtplib.SMTP('smtp.gmail.com', 587)
+        server = smtplib.SMTP('smtp.gmail.com', 587, timeout = 10)
         server.starttls()
 
         # Login to the email account
@@ -458,8 +465,9 @@ def send_email(to_address, subject, body):
         print(f"Failed to send email: {e}")
 
     finally:
-        # Close the connection to the server
-        server.quit()
+        if server:
+            # Close the connection to the server
+            server.quit()
 
 app.run(debug=True, host="0.0.0.0", port=5000)
 
