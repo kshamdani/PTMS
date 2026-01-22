@@ -433,7 +433,7 @@ def matchingStudentTutor(student, tutor):
 def send_email(to_address, subject, body):
     # Define email sender and receiver
     from_address = "peertutoringmanagementsystem@gmail.com"
-    password = "ooxg vrgz qfwe rflb"
+    password = "beyh gdfq qbhu mazw"
 
     # Create the email headers and payload
     msg = MIMEMultipart()
