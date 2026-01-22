@@ -7,8 +7,10 @@ This platform connects students who need help in academic subjects with peer tut
 
 **All data created in the database are temporary and will not remain there for long periods of time.**
 
-🔗 **Live Demo**: [https://peer-tutoring-management-system.onrender.com](https://peer-tutoring-management-system.onrender.com)  
+🔗 **Live Demo**: [https://peer-tutoring-management-system.onrender.com](https://peer-tutoring-management-system.onrender.com)
+
 ⚠️ Note: The site may take up to **90 seconds to load** as it's deployed on a free Render instance.
+
 📧 **Email Functionality Notice**: As of September 16, 2025, Render has [discontinued outbound traffic on SMTP ports 25, 465, and 587](https://render.com/changelog/free-web-services-will-no-longer-allow-outbound-traffic-to-smtp-ports) for free web services. As a result, the email-sending feature is not available in the live demo.
 
 ----
